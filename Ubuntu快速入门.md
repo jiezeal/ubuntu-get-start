@@ -1372,7 +1372,7 @@ CACHE_DRIVER=file				// 缓存方式
 
 ###安装nodejs
 apt-get update  
-apt-get install python gcc make g++  
+apt-get install python gcc g++
 下载源码包：http://nodejs.cn/download/  
 tar -zxvf node-v6.2.0.tar.gz  
 cd node-v6.2.0  
