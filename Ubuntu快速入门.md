@@ -4,7 +4,7 @@
 >ubuntu中文官网：[http://cn.ubuntu.com/](http://cn.ubuntu.com/)
 
 ###Ubuntu 14.04 LTS 服务器版安装
-
+a
 选择ubuntu版本，这里选择英文版  
 ![Alt text](./01.png)
 
