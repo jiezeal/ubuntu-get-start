@@ -1782,7 +1782,7 @@ bower install http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min.js --allow-root	
 ###Grunt
 >中文网站：http://www.gruntjs.net/  
 
-####grunt安装
+####grunt安装  
 `npm install -g grunt-cli`  
 `cd /study/www/`  
 `mkdir gruntTest`  
